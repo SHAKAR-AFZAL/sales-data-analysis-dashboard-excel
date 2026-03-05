@@ -1,0 +1,51 @@
+Order ID,Date,Region,Salesperson,Category,Product,Quantity,Unit Price
+1001,01/01/25,North,Ali,Electronics,Mouse,5,1200
+1002,02-01-2025,South,Sara,Clothing,Jacket,2,4500
+1003,1 Feb 2025,West,Ahmed,Electronics,Keyboard,4,1800
+1004,03/01/2025,East,Fatima,Groceries,Rice,8,2200
+1005,04-01-25,North,Bilal,Electronics,Headphones,6,2500
+1006,05/01/2025,South,Ayesha,Clothing,Shoes,3,5000
+1007,06-01-2025,West,Usman,Groceries,Oil,7,2100
+1008,07-01-2025,East,Zainab,Electronics,Speaker,2,6000
+1009,08/01/25,North,Ali,Clothing,T-Shirt,10,1500
+1010,09-01-2025,South,Sara,Groceries,Sugar,12,1700
+1011,10-01-2025,West,Ahmed,Electronics,Monitor,3,22000
+1012,11-01-2025,East,Fatima,Clothing,Jeans,5,3500
+1013,12-01-2025,North,Bilal,Groceries,Flour,9,1600
+1014,13-01-2025,South,Ayesha,Electronics,Mouse,4,1200
+1015,14-01-2025,West,Usman,Clothing,Jacket,3,4500
+1016,15-01-2025,East,Zainab,Groceries,Oil,6,2100
+1017,16-01-2025,North,Ali,Electronics,Keyboard,5,1800
+1018,17-01-2025,South,Sara,Clothing,Shoes,4,5000
+1019,18-01-2025,West,Ahmed,Groceries,Rice,7,2200
+1020,19-01-2025,East,Fatima,Electronics,Speaker,3,6000
+1021,20-01-2025,North,Bilal,Clothing,T-Shirt,8,1500
+1022,21-01-2025,South,Ayesha,Groceries,Sugar,11,
+2023,27-01-2025,west,Ayesha,Clothing,Jacket,2,3500
+2024,28/01/2025,North,Ahmed,Electronics,Headphones,6,2000
+2025,29-01-25,East,Zainab,groceries,Rice Bag,5,1800
+2026,30-01-2025,South,Ali,Electronics,Keyboard,4,1500
+2027,31-01-2025,West,Fatima,Clothing,Shoes,3,5000
+2028,01/02/25,north,Bilal,Groceries,Sugar,10,1700
+2029,02-02-2025,East,Ayesha,Electronics,Mouse,9,1200
+2030,03-02-2025,SOUTH,Ahmed,Clothing,T-Shirt,6,1500
+2031,04-02-25,West,Sara,Electronics,Speaker,2,4000
+2032,05-02-2025,North,Usman,groceries,Tea,7,900
+2033,06-02-2025,east,Fatima,Clothing,Hoodie,4,2800
+2034,07/02/2025,South,Bilal,Electronics,Monitor,1,22000
+2035,08-02-25,WEST,Ali,Clothing,Jeans,5,3200
+2036,09-02-2025,North,Zainab,Electronics,Laptop,2,95000
+2037,10-02-2025,East,Ahmed,Groceries,Flour,6,1400
+2038,11-02-25,South,Ayesha,Clothing,Cap,9,800
+2039,12-02-2025,west,Usman,Electronics,Printer,3,18000
+2040,13/02/2025,North,Sara,Groceries,Oil,5,2200
+2041,14-02-2025,East,Bilal,Clothing,Jacket,2,3500
+2042,15-02-25,South,Fatima,Electronics,Tablet,1,45000
+2043,16-02-2025,West,Ali,Groceries,Sugar,8,1700
+2044,17/02/2025,North,Ahmed,Clothing,Socks,10,300
+2045,18-02-2025,east,Zainab,Electronics,Camera,1,75000
+2046,19-02-25,South,Usman,Clothing,Hoodie,3,2800
+2047,20-02-2025,West,Sara,Electronics,Monitor,2,22000
+2048,21-02-2025,North,Ayesha,Groceries,Rice Bag,6,1800
+2049,22-02-25,East,Fatima,Clothing,Shoes,4,5000
+2050,23-02-2025,South,Bilal,Electronics,Keyboard,5,1500
