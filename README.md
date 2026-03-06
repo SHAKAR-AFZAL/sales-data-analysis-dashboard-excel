@@ -79,22 +79,22 @@ The following tools and technologies were used:
 
 The project followed a structured **data analysis workflow**.
 
-### 1. Data Collection
+### Data Collection
 - Import sales dataset into Google Sheets.
 
-### 2. Data Cleaning
+### Data Cleaning
 - Remove duplicates  
 - Handle missing values  
 - Standardize column formats  
 
-### 3. Data Analysis
+### Data Analysis
 - Create **Pivot Tables**
 - Aggregate sales metrics
 
-### 4. Data Visualization
+### Data Visualization
 - Build charts for visual insights
 
-### 5. Dashboard Development
+### Dashboard Development
 - Combine charts and metrics into a **simple dashboard**
 
 ---
