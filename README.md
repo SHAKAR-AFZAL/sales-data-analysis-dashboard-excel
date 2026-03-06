@@ -146,7 +146,7 @@ Features demonstrated in this project:
 - **Automatic cloud saving**
 - **Version history tracking**
 
-These features make cloud tools highly effective for **team-based data analysis projects**.
+These features make cloud tools highly effective for **team based data analysis projects**.
 
 ---
 
