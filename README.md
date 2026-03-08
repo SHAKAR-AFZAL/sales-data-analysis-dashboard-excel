@@ -33,7 +33,7 @@ The project demonstrates how cloud-based tools can support:
 - **Exploratory data analysis**
 - **Data visualization**
 - **Dashboard creation**
-- **Real-time collaboration**
+- **Real time collaboration**
 
 Using Google Sheets, the dataset was cleaned, analyzed with **Pivot Tables**, and visualized through **interactive charts** to build a simple **sales performance dashboard**.
 
