@@ -1,4 +1,4 @@
-# Cloud Computing Lab – Sales Data Analysis using Google Sheets
+# Sales Data Analysis using Google Sheets
 
 This project demonstrates how **Google Sheets can be used as a cloud-based data analysis platform** for performing **data cleaning, analysis, and visualization**.
 
