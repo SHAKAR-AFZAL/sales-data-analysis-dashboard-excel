@@ -126,7 +126,7 @@ These insights help in **understanding business performance and identifying grow
 
 **Dashboard Image**
 
-[View Dashboard](https://github.com/SHAKAR-AFZAL/sales-data-analysis-dashboard-excel/blob/main/DASHBOARD%20.png)
+<a href="https://github.com/SHAKAR-AFZAL/sales-data-analysis-dashboard-excel/blob/main/DASHBOARD%20.png">📊 Dashboard Picture</a>
 
 <img width="1306" height="836" alt="Dashboard" src="https://github.com/user-attachments/assets/111b154e-54f1-4600-a75a-347b833d119f"/>
 
