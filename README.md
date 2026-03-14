@@ -56,7 +56,7 @@ The main goals of this lab were:
 
 🗂️ <a href="https://github.com/SHAKAR-AFZAL/sales-data-analysis-dashboard-excel/blob/main/dataset.csv">Dataset View</a> 
 
-The dataset contains information related to sales transactions and business performance.
+The dataset contains information related to sales transactions and Business performance.
 
 ---
 
