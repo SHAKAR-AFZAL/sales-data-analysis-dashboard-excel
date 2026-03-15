@@ -25,7 +25,7 @@ The lab also highlights **Software as a Service (SaaS) collaboration features**,
 
 ## Overview
 
-This **Cloud Computing Lab project** focuses on using **Google Sheets as a SaaS platform** to analyze sales data.
+This **Cloud Computing Lab project** focus on using **Google Sheets as a SaaS platform** to analyze sales data.
 
 The project demonstrates how cloud-based tools can support:
 
