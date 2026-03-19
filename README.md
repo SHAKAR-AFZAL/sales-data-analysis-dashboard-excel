@@ -47,7 +47,7 @@ The main goals of this lab were:
 - Perform analytical operations using **Pivot Tables**
 - Create **visual charts for insights**
 - Build a **simple analytical dashboard**
-- Understand **cloud-based SaaS collaboration**
+- Understand **cloud based SaaS collaboration**
 - Track changes using **version history**
 
 ---
