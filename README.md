@@ -114,7 +114,7 @@ The dashboard summarizes key performance indicators including:
 | Analytical Question | Result |
 |---------------------|--------|
 | Which region generated the highest revenue? | **North** |
-| Which category is most profitable? | **Electronics** |
+| Which category is most profitable?  | **Electronics** |
 | Who is the best salesperson?  | **Zainab** |
 | Which product sold the most?  | **Sugar** |
 
