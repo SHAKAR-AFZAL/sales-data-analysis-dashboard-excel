@@ -78,7 +78,7 @@ The following tools and technologies were used:
 The project followed a structured **data analysis workflow**.
 
 ### Data Collection
-- Import sales dataset into Google Sheets.
+- Import the sales dataset into Google Sheets.
 
 ### Data Cleaning
 - Remove duplicates  
