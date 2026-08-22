@@ -101,7 +101,7 @@ The project followed a structured **data analysis workflow**.
 
 The dashboard summarizes key performance indicators including:
 
-- Sales performance by **region**
+- Sales Performance by **region**
 - Profit comparison across **product categories**
 - Best performing **salesperson**
 - Most sold **product**
