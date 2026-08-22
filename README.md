@@ -43,7 +43,7 @@ Using Google Sheets, the dataset was cleaned, analyzed with **Pivot Tables**, an
 
 The main goals of this lab were:
 
-- Clean and organize **raw sales data**
+- Clean and Organize **raw sales data**
 - Perform analytical operations using **Pivot Tables**
 - Create **visual charts for insights**
 - Build a **simple analytical dashboard**
