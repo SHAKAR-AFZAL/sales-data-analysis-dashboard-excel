@@ -116,7 +116,7 @@ The dashboard summarizes key performance indicators including:
 | Which region generated the highest revenue?  | **North** |
 | Which category is most profitable?  | **Electronics** |
 | Who is the best salesperson?  | **Zainab** |
-| Which Product sold the most?  | **Sugar** |
+| Which Product Sold the most?  | **Sugar** |
 
 These insights help in **understanding business performance and identifying growth opportunities**.
 
