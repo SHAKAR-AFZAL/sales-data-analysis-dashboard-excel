@@ -81,7 +81,7 @@ The project followed a structured **data analysis workflow**.
 - Import the sales dataset into Google Sheets.
 
 ### Data Cleaning
-- Remove duplicates  
+- Remove Duplicates  
 - Handle missing values  
 - Standardize column formats  
 
