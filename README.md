@@ -41,7 +41,7 @@ Using Google Sheets, the dataset was cleaned, analyzed with **Pivot Tables**, an
 
 ## Project Objective
 
-The main goals of this lab were:
+The main goals of the lab were:
 
 - Clean and Organize **raw sales data**
 - Perform analytical operations using **Pivot Tables**
